@@ -1,0 +1,106 @@
+﻿@model BDI.TrabalhoFinal.Models.Proprietario
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Proprietario</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CPF)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CPF)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Endereco)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Endereco)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Sexo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Sexo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Telefone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Telefone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CNH)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CNH)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ContaBancaria.Banco)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ContaBancaria.Banco)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ContaBancaria.Agencia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ContaBancaria.Agencia)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ContaBancaria.Conta)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ContaBancaria.Conta)
+        </dd>
+    </dl>
+
+    <h4>Veículos</h4>
+
+    <table class="table">
+        <thead>
+        <th>
+                @Html.DisplayNameFor(model => model.Veiculos.FirstOrDefault().Placa)
+        </th>
+        <th>
+                @Html.DisplayNameFor(model => model.Veiculos.FirstOrDefault().Marca)
+        </th>
+        <th>
+                @Html.DisplayNameFor(model => model.Veiculos.FirstOrDefault().Modelo)
+        </th>
+
+        </thead>
+        <tbody>
+            @foreach (var veiculo in Model.Veiculos)
+            {
+                <tr>
+                    <td>@veiculo.Placa</td>
+                    <td>@veiculo.Marca</td>
+                    <td>@veiculo.Modelo</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> |
+    <a asp-action="Index">Voltar</a>
+</div>

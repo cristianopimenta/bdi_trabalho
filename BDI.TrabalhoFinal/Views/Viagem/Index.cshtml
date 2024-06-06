@@ -1,0 +1,95 @@
+﻿@model IEnumerable<BDI.TrabalhoFinal.Models.Viagem>
+
+@{
+    ViewData["Title"] = "Início";
+}
+
+<h1>Início</h1>
+
+<p>
+    <a asp-action="Create">Novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CpfPassageiro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Veiculo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CpfMotorista)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PasageiroId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LocalOrigem)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LocalDestino)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataHoraInicio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataHoraFim)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorPagar)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CpfPassageiro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Veiculo.Cor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CpfMotorista)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PasageiroId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LocalOrigem)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LocalDestino)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataHoraInicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataHoraFim)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FormaPagamento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorPagar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GerenteId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FoiCancelada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EhPagamentoPosteriori)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BDI.TrabalhoFinal
+build_property.RootNamespace = BDI.TrabalhoFinal
+build_property.ProjectDir = C:\projetos\clientesOtimize\leonardomoura\BDI.TrabalhoFinal\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\projetos\clientesOtimize\leonardomoura\BDI.TrabalhoFinal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Motorista/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90b3Jpc3RhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Motorista/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90b3Jpc3RhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Motorista/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90b3Jpc3RhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Motorista/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90b3Jpc3RhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Motorista/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90b3Jpc3RhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Passageiro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Passageiro/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Passageiro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Passageiro/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Passageiro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Proprietario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcHJpZXRhcmlvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Proprietario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcHJpZXRhcmlvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Proprietario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcHJpZXRhcmlvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Proprietario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcHJpZXRhcmlvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Proprietario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcHJpZXRhcmlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Veiculo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Veiculo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Veiculo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Veiculo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Veiculo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Viagem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhZ2VtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Viagem/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhZ2VtXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Viagem/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhZ2VtXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Viagem/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhZ2VtXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Viagem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhZ2VtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/clientesOtimize/leonardomoura/BDI.TrabalhoFinal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5glbqtomel

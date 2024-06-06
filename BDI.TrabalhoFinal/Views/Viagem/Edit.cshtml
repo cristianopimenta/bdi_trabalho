@@ -1,0 +1,94 @@
+﻿@model BDI.TrabalhoFinal.Models.Viagem
+
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<h1>Editar</h1>
+
+<h4>Viagem</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="CpfPassageiro" class="control-label"></label>
+                <input asp-for="CpfPassageiro" class="form-control" />
+                <span asp-validation-for="CpfPassageiro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VeiculoId" class="control-label"></label>
+                <select asp-for="VeiculoId" class="form-control" asp-items="ViewBag.VeiculoId"></select>
+                <span asp-validation-for="VeiculoId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CpfMotorista" class="control-label"></label>
+                <input asp-for="CpfMotorista" class="form-control" />
+                <span asp-validation-for="CpfMotorista" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PasageiroId" class="control-label"></label>
+                <input asp-for="PasageiroId" class="form-control" />
+                <span asp-validation-for="PasageiroId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LocalOrigem" class="control-label"></label>
+                <input asp-for="LocalOrigem" class="form-control" />
+                <span asp-validation-for="LocalOrigem" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LocalDestino" class="control-label"></label>
+                <input asp-for="LocalDestino" class="form-control" />
+                <span asp-validation-for="LocalDestino" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataHoraInicio" class="control-label"></label>
+                <input asp-for="DataHoraInicio" class="form-control" />
+                <span asp-validation-for="DataHoraInicio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataHoraFim" class="control-label"></label>
+                <input asp-for="DataHoraFim" class="form-control" />
+                <span asp-validation-for="DataHoraFim" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FormaPagamento" class="control-label"></label>
+                <input asp-for="FormaPagamento" class="form-control" />
+                <span asp-validation-for="FormaPagamento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ValorPagar" class="control-label"></label>
+                <input asp-for="ValorPagar" class="form-control" />
+                <span asp-validation-for="ValorPagar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GerenteId" class="control-label"></label>
+                <input asp-for="GerenteId" class="form-control" />
+                <span asp-validation-for="GerenteId" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="FoiCancelada" /> @Html.DisplayNameFor(model => model.FoiCancelada)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="EhPagamentoPosteriori" /> @Html.DisplayNameFor(model => model.EhPagamentoPosteriori)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
