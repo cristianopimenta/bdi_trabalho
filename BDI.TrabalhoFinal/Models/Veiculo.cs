@@ -48,5 +48,9 @@ namespace BDI.TrabalhoFinal.Models
         [Display(Name = "Código do motorista")]
         public int? MotoristaId { get; set; }
         public Motorista Motorista { get; set; }
+
+        public List<Viagem> Viagens { get; set; }
+
+        public List<Faturamento> Faturamentos { get; set; }
     }
 }

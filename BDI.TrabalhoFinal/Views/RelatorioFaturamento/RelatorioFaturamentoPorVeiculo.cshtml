@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Relatório de Faturamento por Veículo";
+    var faturamentos = Model as IEnumerable<dynamic>;
+}
+
+<h2>Relatório de Faturamento por Veículo</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nome Proprietário</th>
+            <th>Placa Veículo</th>
+            <th>Tipo Pagamento</th>
+            <th>Valor Total Faturado</th>
+            <th>Valor Médio Faturamento</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var faturamento in faturamentos)
+        {
+            <tr>
+                <td>@faturamento.NomeProprietario</td>
+                <td>@faturamento.PlacaVeiculo</td>
+                <td>@faturamento.TipoPagamento</td>
+                <td>@faturamento.ValorTotalFaturado.ToString("C")</td>
+                <td>@faturamento.ValorMedioFaturamento.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

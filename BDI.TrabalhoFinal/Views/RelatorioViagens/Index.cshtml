@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Relatório de Viagens";
+}
+
+<h2>Relatório de Viagens</h2>
+
+<form method="post" asp-controller="Relatorio" asp-action="Index">
+    <div>
+        <label for="marca">Marca:</label>
+        <input type="text" id="marca" name="marca" required />
+    </div>
+    <div>
+        <label for="dataInicial">Data Inicial:</label>
+        <input type="date" id="dataInicial" name="dataInicial" required />
+    </div>
+    <div>
+        <label for="dataFinal">Data Final:</label>
+        <input type="date" id="dataFinal" name="dataFinal" required />
+    </div>
+    <div>
+        <label for="horaInicial">Hora Inicial:</label>
+        <input type="time" id="horaInicial" name="horaInicial" required />
+    </div>
+    <div>
+        <label for="horaFinal">Hora Final:</label>
+        <input type="time" id="horaFinal" name="horaFinal" required />
+    </div>
+    <button type="submit">Buscar</button>
+</form>
+

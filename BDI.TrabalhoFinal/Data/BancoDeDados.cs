@@ -16,6 +16,7 @@ namespace BDI.TrabalhoFinal.Data
         public DbSet<Veiculo> Veiculos { get; set; }
         public DbSet<Motorista> Motoristas { get; set; }
         public DbSet<MotoristaVeiculo> MotoristaVeiculos { get; set; }
+        public DbSet<Faturamento> Faturamentos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
