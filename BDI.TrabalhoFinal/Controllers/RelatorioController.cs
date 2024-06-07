@@ -98,7 +98,7 @@ namespace BDI.TrabalhoFinal.Controllers
         }
 
         [HttpPost]
-        public IActionResult MediaMensalViagensPorSexo()
+        public IActionResult MediaMensalViagensPorSexo(int ano, int mes)
         {
             var viagensPorSexo = _context.Viagens
                 .GroupBy(v => new { v.DataHoraInicio.Year, v.DataHoraInicio.Month, v.Passageiro.Sexo })
