@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\projetos\\clientesOtimize\\leonardomoura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\views\\relatorio\\faturamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\views\\relatorio\\faturamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\migrations\\20240607101254_migrationfaturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\migrations\\20240607101254_migrationfaturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\views\\relatorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\views\\relatorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\models\\modelrelatorio\\relatorioviagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\models\\modelrelatorio\\relatorioviagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\models\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\models\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\data\\bancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\data\\bancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\views\\relatorio\\faturamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\views\\relatorio\\faturamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\views\\relatorio\\relatoriomediamensalviagensporsexo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,40 +67,16 @@
       "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\views\\relatorio\\faturamentoporveiculo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\models\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\models\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\models\\modelrelatorio\\relatorioviagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\models\\modelrelatorio\\relatorioviagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\views\\relatorio\\relatoriofaturamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\views\\relatorio\\relatoriofaturamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\data\\bancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\data\\bancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\views\\relatorio\\relatorioviagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\views\\relatorio\\relatorioviagem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\views\\relatorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\views\\relatorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\views\\faturamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\views\\faturamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|c:\\projetos\\clientesotimize\\leonardomoura\\bdi.trabalhofinal\\migrations\\20240607101254_migrationfaturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A538417D-9045-4B63-A967-E0818764B7FC}|BDI.TrabalhoFinal\\BDI.TrabalhoFinal.csproj|solutionrelative:bdi.trabalhofinal\\migrations\\20240607101254_migrationfaturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,92 +118,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MediaMensalViagensPorSexo.cshtml",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\MediaMensalViagensPorSexo.cshtml",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\MediaMensalViagensPorSexo.cshtml",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\MediaMensalViagensPorSexo.cshtml",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Relatorio\\MediaMensalViagensPorSexo.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T10:30:46.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Passageiro.cs",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Passageiro.cs",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Models\\Passageiro.cs",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Passageiro.cs",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Models\\Passageiro.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T10:28:31.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RelatorioFaturamentoPorVeiculo.cshtml",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamentoPorVeiculo.cshtml",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamentoPorVeiculo.cshtml",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamentoPorVeiculo.cshtml",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamentoPorVeiculo.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T10:27:02.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FaturamentoPorVeiculo.cshtml",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\FaturamentoPorVeiculo.cshtml",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\FaturamentoPorVeiculo.cshtml",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\FaturamentoPorVeiculo.cshtml",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Relatorio\\FaturamentoPorVeiculo.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T10:25:52.585Z"
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T02:48:16.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "VeiculoController.cs",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Controllers\\VeiculoController.cs",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Controllers\\VeiculoController.cs",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Controllers\\VeiculoController.cs",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Controllers\\VeiculoController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Title": "BancoDeDados.cs",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Data\\BancoDeDados.cs",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Data\\BancoDeDados.cs",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Data\\BancoDeDados.cs",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Data\\BancoDeDados.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIAywBIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T10:23:47.476Z"
+              "WhenOpened": "2024-06-05T13:34:29.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RelatorioFaturamento.cshtml",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamento.cshtml",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamento.cshtml",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamento.cshtml",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamento.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "Faturamento.cs",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Faturamento.cs",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Models\\Faturamento.cs",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Faturamento.cs",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Models\\Faturamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:10:51.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Models\\Veiculo.cs",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Veiculo.cs",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Models\\Veiculo.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwDUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:03:46.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelatorioViagens.cs",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\ModelRelatorio\\RelatorioViagens.cs",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Models\\ModelRelatorio\\RelatorioViagens.cs",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\ModelRelatorio\\RelatorioViagens.cs",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Models\\ModelRelatorio\\RelatorioViagens.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:58:59.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\Index.cshtml",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\Index.cshtml",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\Index.cshtml",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Relatorio\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T10:16:59.973Z"
+              "WhenOpened": "2024-06-07T10:06:44.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RelatorioController.cs",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Controllers\\RelatorioController.cs",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Controllers\\RelatorioController.cs",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Controllers\\RelatorioController.cs",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Controllers\\RelatorioController.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAnwGQAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T10:01:14.464Z",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowDMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T11:37:57.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\appsettings.json",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\appsettings.json",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T20:38:06.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240607101254_MigrationFaturamento.cs",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Migrations\\20240607101254_MigrationFaturamento.cs",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Migrations\\20240607101254_MigrationFaturamento.cs",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Migrations\\20240607101254_MigrationFaturamento.cs",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Migrations\\20240607101254_MigrationFaturamento.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:12:54.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Faturamento.cshtml",
               "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\Faturamento.cshtml",
               "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\Faturamento.cshtml",
@@ -212,20 +248,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAUwDMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T11:37:57.318Z",
+              "DocumentIndex": 5,
+              "Title": "RelatorioController.cs",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Controllers\\RelatorioController.cs",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Controllers\\RelatorioController.cs",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Controllers\\RelatorioController.cs",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Controllers\\RelatorioController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwF4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:01:14.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
+              "Title": "RelatorioFaturamento.cshtml",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamento.cshtml",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamento.cshtml",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamento.cshtml",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T10:16:59.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VeiculoController.cs",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Controllers\\VeiculoController.cs",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Controllers\\VeiculoController.cs",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Controllers\\VeiculoController.cs",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Controllers\\VeiculoController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:23:47.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FaturamentoPorVeiculo.cshtml",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\FaturamentoPorVeiculo.cshtml",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\FaturamentoPorVeiculo.cshtml",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\FaturamentoPorVeiculo.cshtml",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Relatorio\\FaturamentoPorVeiculo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T10:25:52.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelatorioFaturamentoPorVeiculo.cshtml",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamentoPorVeiculo.cshtml",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamentoPorVeiculo.cshtml",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamentoPorVeiculo.cshtml",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioFaturamentoPorVeiculo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T10:27:02.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Passageiro.cs",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Passageiro.cs",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Models\\Passageiro.cs",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Passageiro.cs",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Models\\Passageiro.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:28:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MediaMensalViagensPorSexo.cshtml",
+              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\MediaMensalViagensPorSexo.cshtml",
+              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\MediaMensalViagensPorSexo.cshtml",
+              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\MediaMensalViagensPorSexo.cshtml",
+              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Relatorio\\MediaMensalViagensPorSexo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T10:30:46.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "RelatorioMediaMensalViagensPorSexo.cshtml",
               "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioMediaMensalViagensPorSexo.cshtml",
               "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioMediaMensalViagensPorSexo.cshtml",
@@ -237,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "FaturamentosController.cs",
               "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\FaturamentosController.cs",
               "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\FaturamentosController.cs",
@@ -249,31 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20240607101254_MigrationFaturamento.cs",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Migrations\\20240607101254_MigrationFaturamento.cs",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Migrations\\20240607101254_MigrationFaturamento.cs",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Migrations\\20240607101254_MigrationFaturamento.cs",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Migrations\\20240607101254_MigrationFaturamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T10:12:54.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Faturamento.cs",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Faturamento.cs",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Models\\Faturamento.cs",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Faturamento.cs",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Models\\Faturamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T10:10:51.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "RelatorioViagem.cshtml",
               "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioViagem.cshtml",
               "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\RelatorioViagem.cshtml",
@@ -285,55 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Veiculo.cs",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Veiculo.cs",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Models\\Veiculo.cs",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Veiculo.cs",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Models\\Veiculo.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwDUAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T10:03:46.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RelatorioViagens.cs",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\ModelRelatorio\\RelatorioViagens.cs",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Models\\ModelRelatorio\\RelatorioViagens.cs",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\ModelRelatorio\\RelatorioViagens.cs",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Models\\ModelRelatorio\\RelatorioViagens.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:58:59.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\Index.cshtml",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Relatorio\\Index.cshtml",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Relatorio\\Index.cshtml",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Views\\Relatorio\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T10:06:44.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BancoDeDados.cs",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Data\\BancoDeDados.cs",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Data\\BancoDeDados.cs",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Data\\BancoDeDados.cs",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\Data\\BancoDeDados.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAhwBIAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:34:29.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Viagem.cs",
               "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Models\\Viagem.cs",
               "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Models\\Viagem.cs",
@@ -345,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Views\\Motorista\\Create.cshtml",
               "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Views\\Motorista\\Create.cshtml",
@@ -357,19 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\appsettings.json",
-              "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\appsettings.json",
-              "ToolTip": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\appsettings.json",
-              "RelativeToolTip": "BDI.TrabalhoFinal\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-04T20:38:06.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\Program.cs",
               "RelativeDocumentMoniker": "BDI.TrabalhoFinal\\Program.cs",
