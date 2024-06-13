@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BDI.TrabalhoFinal.bundle.scp.css"
     },
     {
+      "Id": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\wwwroot\\css\\estilo.css",
+      "PackagePath": "staticwebassets\\css\\estilo.css"
+    },
+    {
       "Id": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

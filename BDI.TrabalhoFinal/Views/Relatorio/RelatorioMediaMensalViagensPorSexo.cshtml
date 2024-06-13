@@ -3,26 +3,30 @@
     var viagensPorSexo = Model as IEnumerable<dynamic>;
 }
 
-<h2>Relatório de Média Mensal de Viagens por Sexo</h2>
+<div class="container mt-5">
+    <h2 class="mb-4">Relatório de Média Mensal de Viagens por Sexo</h2>
 
-<table>
-    <thead>
-        <tr>
-            <th>Ano</th>
-            <th>Mês</th>
-            <th>Sexo</th>
-            <th>Média de Viagens</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var viagem in viagensPorSexo)
-        {
-            <tr>
-                <td>@viagem.Ano</td>
-                <td>@viagem.Mes</td>
-                <td>@viagem.Sexo</td>
-                <td>@viagem.MediaViagens</td>
-            </tr>
-        }
-    </tbody>
-</table>
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Ano</th>
+                    <th>Mês</th>
+                    <th>Sexo</th>
+                    <th>Média de Viagens</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var viagem in viagensPorSexo)
+                {
+                    <tr>
+                        <td>@viagem.Ano</td>
+                        <td>@viagem.Mes</td>
+                        <td>@viagem.Sexo</td>
+                        <td>@viagem.MediaViagens</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

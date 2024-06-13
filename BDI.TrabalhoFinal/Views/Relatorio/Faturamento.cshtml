@@ -2,6 +2,7 @@
     ViewData["Title"] = "Relatório de Faturamento";
 }
 
+
 <h2>Relatório de Faturamento</h2>
 
 <form method="post" asp-controller="Relatorio" asp-action="Faturamento">
@@ -16,3 +17,9 @@
     <button type="submit">Buscar</button>
 </form>
 
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

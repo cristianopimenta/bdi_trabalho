@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FkbS6f4mt65q7iVC18Zpu4c3Jej469rQi0qdOBgKYSs=",
+  "Hash": "neI12NxBqVFHMutajCSP3upWtzBvFcFFlodMvciPM80=",
   "Source": "BDI.TrabalhoFinal",
   "BasePath": "_content/BDI.TrabalhoFinal",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BDI.TrabalhoFinal.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\wwwroot\\css\\estilo.css",
+      "SourceId": "BDI.TrabalhoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\wwwroot\\",
+      "BasePath": "_content/BDI.TrabalhoFinal",
+      "RelativePath": "css/estilo.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\estilo.css"
     },
     {
       "Identity": "C:\\projetos\\clientesOtimize\\leonardomoura\\BDI.TrabalhoFinal\\wwwroot\\css\\site.css",

@@ -7,6 +7,11 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/BDI.TrabalhoFinal.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/lib/bootstrap-icons/font/bootstrap-icons.min.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+
+
 </head>
 <body>
     <header>
@@ -38,18 +43,18 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Viagem" asp-action="Index">Viagens</a>
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Relatorio" asp-action="Index">Relatório de Viagens</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Relatório
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" asp-area="" asp-controller="Relatorio" asp-action="Index">Relatório de Viagens</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="Relatorio" asp-action="Faturamento">Relatório de Faturamento</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="Relatorio" asp-action="FaturamentoPorVeiculo">Relatório de Faturamento por Veículo</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="Relatorio" asp-action="MediaMensalViagensPorSexo">Relatório de Média Mensal de Viagens por Sexo</a>
+                            </div>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Relatorio" asp-action="Faturamento">Relatório de Faturamento</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Relatorio" asp-action="FaturamentoPorVeiculo">Relatório de Faturamento por Veículo</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Relatorio" asp-action="MediaMensalViagensPorSexo">Relatório de Média Mensal de Viagens por Sexo</a>
-                        </li>
+
 
 
                         @* <li class="nav-item">
@@ -76,4 +81,6 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
 </html>
