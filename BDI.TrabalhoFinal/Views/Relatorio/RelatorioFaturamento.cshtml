@@ -3,27 +3,33 @@
     var faturamentos = Model as IEnumerable<dynamic>;
 }
 
-<h2>Relatório de Faturamento - Top 20</h2>
+<div class="container mt-5">
+    <h2 class="mb-4">Relatório de Faturamento</h2>
 
-<table>
-    <thead>
-        <tr>
-            <th>Data</th>
-            <th>Valor</th>
-            <th>Marca</th>
-            <th>Placa</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var faturamento in faturamentos)
-        {
-            <tr>
-                <td>@faturamento.Data.ToString("dd/MM/yyyy")</td>
-                <td>@faturamento.Valor.ToString("C")</td>
-                <td>@faturamento.Marca</td>
-                <td>@faturamento.Placa</td>
-            </tr>
-        }
-    </tbody>
-</table>
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Data</th>
+                    <th>Valor</th>
+                    <th>Marca</th>
+                    <th>Placa</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var faturamento in faturamentos)
+                {
+                    <tr>
+                        <td>@faturamento.Data.ToString("dd/MM/yyyy")</td>
+                        <td>@faturamento.Valor.ToString("C")</td>
+                        <td>@faturamento.Marca</td>
+                        <td>@faturamento.Placa</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
 

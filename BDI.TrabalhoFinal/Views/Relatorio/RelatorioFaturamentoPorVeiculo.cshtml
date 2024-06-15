@@ -1,6 +1,7 @@
-﻿@{
+﻿@model IEnumerable<BDI.TrabalhoFinal.Controllers.FaturamentoPorVeiculoViewModel>
+
+@{
     ViewData["Title"] = "Relatório de Faturamento por Veículo";
-    var faturamentos = Model as IEnumerable<dynamic>;
 }
 
 <div class="container mt-5">
@@ -18,12 +19,12 @@
                 </tr>
             </thead>
             <tbody>
-                @foreach (var faturamento in faturamentos)
+                @foreach (var faturamento in Model)
                 {
                     <tr>
-                        <td>@faturamento.NomeProprietario</td>
-                        <td>@faturamento.PlacaVeiculo</td>
-                        <td>@faturamento.TipoPagamento</td>
+                        <td>@faturamento.Proprietario.Nome</td>
+                        <td>@faturamento.Placa</td>
+                        <td>@faturamento.FormaPagamento</td>
                         <td>@faturamento.ValorTotalFaturado.ToString("C")</td>
                         <td>@faturamento.ValorMedioFaturamento.ToString("C")</td>
                     </tr>

@@ -45,7 +45,7 @@ namespace BDI.TrabalhoFinal.Models
         public string FormaPagamento { get; set; }
 
         [Display(Name = "Valor")]
-        public decimal ValorPagar { get; set; }
+        public double ValorPagar { get; set; }
 
         [Display(Name = "Código do gerente")]
         public int? GerenteId { get; set; }
