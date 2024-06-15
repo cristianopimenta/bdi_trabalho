@@ -40,7 +40,7 @@ namespace BDI.TrabalhoFinal.Controllers
                     NomePassageiro = v.Passageiro.Nome
                 }).ToList();
 
-            return View("Relatorio", viagens);
+            return View("RelatorioViagem", viagens);
         }
         public IActionResult Faturamento()
         {

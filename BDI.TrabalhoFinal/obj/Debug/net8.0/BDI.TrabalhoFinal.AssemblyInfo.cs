@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BDI.TrabalhoFinal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e911b4366357dbf8599dcd1d3cb296c24ff013b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b8b25df576aa2304dcc0821d1560db1715cb44d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BDI.TrabalhoFinal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BDI.TrabalhoFinal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

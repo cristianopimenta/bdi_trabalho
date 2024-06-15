@@ -3,42 +3,35 @@
     var viagens = Model as IEnumerable<dynamic>;
 }
 
-<!DOCTYPE html>
-<html lang="pt-br">
+<div class="container mt-5">
+    <h2 class="mb-4">Relatório de Viagens</h2>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Relatório de Viagens</title>
-    <link rel="stylesheet" href="~/css/styles.css" />
-</head>
-<body>
-    <h2>Relatório de Viagens</h2>
-
-    <table>
-        <thead>
-            <tr>
-                <th>Marca</th>
-                <th>Placa</th>
-                <th>Local Origem</th>
-                <th>Local Destino</th>
-                <th>Nome Motorista</th>
-                <th>Nome Passageiro</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var viagem in viagens)
-            {
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
                 <tr>
-                    <td>@viagem.Marca</td>
-                    <td>@viagem.Placa</td>
-                    <td>@viagem.LocalOrigem</td>
-                    <td>@viagem.LocalDestino</td>
-                    <td>@viagem.NomeMotorista</td>
-                    <td>@viagem.NomePassageiro</td>
+                    <th>Marca</th>
+                    <th>Placa</th>
+                    <th>Local Origem</th>
+                    <th>Local Destino</th>
+                    <th>Nome Motorista</th>
+                    <th>Nome Passageiro</th>
                 </tr>
-            }
-        </tbody>
-    </table>
-</body>
-</html>
+            </thead>
+            <tbody>
+                @foreach (var viagem in viagens)
+                {
+                    <tr>
+                        <td>@viagem.Marca</td>
+                        <td>@viagem.Placa</td>
+                        <td>@viagem.LocalOrigem</td>
+                        <td>@viagem.LocalDestino</td>
+                        <td>@viagem.NomeMotorista</td>
+                        <td>@viagem.NomePassageiro</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        </div>
+  </div>
+  
